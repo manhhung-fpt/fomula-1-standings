@@ -30,7 +30,7 @@ export default function Header() {
 								</Grid>
 								<Grid item>
 									<Link to="/" color="inherit" sx={{textDecoration: 'none'}}>
-										<Typography variant="h3" component="h1" sx={{fontFamily: 'Racing Sans One'}}>effOne Hub</Typography>
+										<Typography variant="h3" component="h1" sx={{fontFamily: 'Racing Sans One'}}>Fomula 1 Standings</Typography>
 									</Link>
 								</Grid>
 							</Hidden>

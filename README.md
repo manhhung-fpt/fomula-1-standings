@@ -1,6 +1,6 @@
-# 🏁 effOne Hub
+# 🏁 Fomula 1 Standings
 
-> [Live Demo](https://effonehub.com/)
+> [Live Demo](https://fomula-1-standings.vercel.app/)
 
 React & Material-UI app consuming the [Ergast API](https://ergast.com/mrd/) Formula One dataset.
 
